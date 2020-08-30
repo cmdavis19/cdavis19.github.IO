@@ -1,0 +1,4 @@
+lanuage: ruby
+
+install:
+  command: copy README.md README1.md
